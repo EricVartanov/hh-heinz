@@ -1,0 +1,509 @@
+@media (max-width: 1339px) {
+    .idc-section {
+        max-width: 100%;
+        min-width: 100%;
+    }
+    .idc-container {
+        max-width: 930px;
+    }
+    .idc-swiper-button-prev,
+    .idc-swiper-button-next {
+        width: 26px;
+    }
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 23px;
+        padding-bottom: 15px;
+    }
+    .idc-head .idc-logo {
+        width: 258px;
+    }
+    /* ************about************ */
+    .idc-about .idc-container {
+        height: 570px;
+    }
+    /* *************henry************ */
+    .idc-henry .idc-container {
+        padding-top: 0;
+    }
+    .idc-henry .idc-swiper-button-next {
+        right: 30px;
+    }
+    .idc-henry .idc-swiper-button-prev {
+        left: 30px;
+    }
+    /* *************map*************/
+    .idc-map {
+        margin-top: -45px;
+    }
+    .idc-map .idc-container {
+        padding-top: 72px;
+    }
+    .idc-map .idc-map-img {
+        width: 866px;
+    }
+    /* *************mary************ */
+    .idc-mary {
+        margin-top: 60px;
+    }
+    .idc-mary .idc-container {
+        padding-top: 65px;
+    }
+    .idc-mary .idc-mary-img {
+        width: 886px;
+    }
+    /* *************geo************ */
+    .idc-geo {
+        margin-top: 20px;
+    }
+    /* *************products ************ */
+    .idc-products {
+        margin-top: 340px;
+    }
+    .idc-products .idc-container {
+        padding-top: 210px;
+        padding-bottom: 0;
+    }
+    .idc-products .idc-title {
+        width: 374px;
+    }
+    .idc-products-block {
+        margin-top: 22px;
+        max-width: 875px;
+    }
+    .idc-products .idc-nav {
+        width: 100%;
+    }
+    .idc-products-wrapper {
+        height: 465px;
+    }
+    /* *************mission************ */
+    .idc-mission {
+        margin-top: 20px;
+    }
+    .idc-mission .idc-container {
+        padding-top: 80px;
+        padding-bottom: 0;
+    }
+    .idc-mission .idc-mission-img {
+        width: 868px;
+    }
+
+    /* *************values************ */
+    .idc-values .idc-container {
+        padding-top: 230px;
+        padding-bottom: 105px;
+    }
+    .idc-values .idc-swiper2 {
+        width: 860px;
+        margin: 0 auto;
+    }
+    .idc-values .idc-swiper-button-prev,
+    .idc-values .idc-swiper-button-next {
+        top: 32%;
+    }
+    .idc-values .idc-swiper-button-next {
+        right: 33px;
+    }
+    .idc-values .idc-swiper-button-prev {
+        left: 33px;
+    }
+    /* *************strategy************ */
+    .idc-strategy .idc-container {
+        padding-top: 95px;
+        padding-bottom: 0;
+    }
+    /* *************career************ */
+    .idc-career .idc-container {
+        padding-top: 145px;
+        padding-bottom: 60px;
+    }
+    .idc-career .idc-title {
+        width: 438px;
+    }
+    .idc-career .idc-swiper-block {
+        margin-top: 25px;
+    }
+    .idc-swiper3 {
+        max-width: 873px;
+    }
+    .idc-career .idc-swiper-button-prev,
+    .idc-career .idc-swiper-button-next {
+        top: 43%;
+    }
+    .idc-career .idc-swiper-button-next {
+        right: 18px;
+    }
+    .idc-career .idc-swiper-button-prev {
+        left: 18px;
+    }
+    /* *************why************ */
+    .idc-why .idc-container {
+        padding-top: 80px;
+        padding-bottom: 115px;
+    }
+    .idc-why-img {
+        max-width: 920px;
+    }
+
+    /* *************footer************ */
+
+    .idc-footer .idc-logo {
+        width: 258px;
+    }
+    .idc-footer .idc-ps {
+        margin-top: 25px;
+    }
+}
+@media (max-width: 1019px) {
+    .idc-container {
+        max-width: 610px;
+    }
+    .idc-swiper-button-prev,
+    .idc-swiper-button-next {
+        width: 18px;
+    }
+
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 26px;
+        padding-bottom: 10px;
+    }
+    .idc-head .idc-logo {
+        width: 170px;
+    }
+    /* ************about************ */
+    .idc-about .idc-container {
+        height: 375px;
+    }
+    /* *************henry************ */
+    .idc-henry .idc-container {
+        padding-top: 5px;
+    }
+    .idc-henry .idc-swiper-button-prev,
+    .idc-henry .idc-swiper-button-next {
+        top: 40%;
+    }
+    .idc-henry .idc-swiper-button-next {
+        right: 20px;
+    }
+    .idc-henry .idc-swiper-button-prev {
+        left: 20px;
+    }
+    /* *************map*************/
+    .idc-map {
+        margin-top: -35px;
+    }
+    .idc-map .idc-container {
+        padding-top: 45px;
+    }
+    .idc-map .idc-map-img {
+        width: 568px;
+    }
+    /* *************mary************ */
+    .idc-mary {
+        margin-top: 35px;
+    }
+    .idc-mary .idc-container {
+        padding-top: 40px;
+    }
+    .idc-mary .idc-mary-img {
+        width: 581px;
+    }
+    /* *************geo************ */
+    /* .idc-geo {
+        margin-top: 20px;
+    } */
+    /* *************products ************ */
+    .idc-products {
+        margin-top: 230px;
+    }
+    .idc-products .idc-container {
+        padding-top: 130px;
+        padding-bottom: 0;
+    }
+    .idc-products .idc-title {
+        width: 245px;
+    }
+    .idc-products-block {
+        margin-top: 15px;
+        max-width: 574px;
+    }
+    .idc-products-wrapper {
+        height: 320px;
+    }
+    /* *************mission************ */
+    .idc-mission {
+        margin-top: 0;
+    }
+    .idc-mission .idc-container {
+        padding-top: 55px;
+        padding-bottom: 45px;
+    }
+    .idc-mission .idc-mission-img {
+        width: 569px;
+    }
+
+    /* *************values************ */
+    .idc-values .idc-container {
+        padding-top: 160px;
+        padding-bottom: 60px;
+    }
+    .idc-values .idc-swiper2 {
+        width: 540px;
+        margin: 0 auto;
+    }
+    .idc-values .idc-swiper-button-prev,
+    .idc-values .idc-swiper-button-next {
+        top: 30%;
+    }
+    .idc-values .idc-swiper-button-next {
+        right: 23px;
+    }
+    .idc-values .idc-swiper-button-prev {
+        left: 23px;
+    }
+    /* *************strategy************ */
+    .idc-strategy .idc-container {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    /* *************career************ */
+    .idc-career .idc-container {
+        padding-top: 95px;
+        padding-bottom: 35px;
+    }
+    .idc-career .idc-title {
+        width: 287px;
+    }
+    .idc-career .idc-swiper-block {
+        margin-top: 15px;
+    }
+    .idc-swiper3 {
+        max-width: 580px;
+    }
+    .idc-career .idc-swiper-button-prev,
+    .idc-career .idc-swiper-button-next {
+        top: 43%;
+    }
+    .idc-career .idc-swiper-button-next {
+        right: 15px;
+    }
+    .idc-career .idc-swiper-button-prev {
+        left: 15px;
+    }
+    /* *************why************ */
+    .idc-why .idc-container {
+        padding-top: 55px;
+        padding-bottom: 80px;
+    }
+    .idc-why-img {
+        max-width: 606px;
+    }
+
+    /* *************footer************ */
+    .idc-footer .idc-container {
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+    .idc-footer .idc-logo {
+        width: 170px;
+    }
+    .idc-footer .idc-ps {
+        margin-top: 15px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+}
+@media (max-width: 699px) {
+    .idc-section {
+        padding: 0 15px;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .idc-swiper-button-prev,
+    .idc-swiper-button-next {
+        display: none;
+    }
+    .idc-swiper-pagination {
+        display: block;
+        text-align: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 4px;
+        z-index: 15;
+    }
+    .swiper-pagination-bullet {
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background: rgba(0, 0, 0, 0.5);
+        margin: 0 2.5px !important;
+    }
+    .swiper-pagination-bullet-active {
+        background: #000000;
+    }
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 7px;
+        padding-bottom: 5px;
+    }
+    .idc-head .idc-logo {
+        width: 25vw;
+    }
+    /* ************about************ */
+    .idc-about .idc-container {
+        height: 55vw;
+    }
+    /* *************henry************ */
+    .idc-henry {
+        margin-top: 2px;
+    }
+    .idc-henry .idc-container {
+        padding-top: 0;
+    }
+    .idc-henry .idc-swiper-pagination {
+        top: 78%;
+    }
+    /* *************map*************/
+    .idc-map {
+        margin-top: -26px;
+    }
+    .idc-map .idc-container {
+        padding-top: 30px;
+    }
+    .idc-map .idc-map-img {
+        width: 84.4vw;
+    }
+    /* *************mary************ */
+    .idc-mary {
+        /* margin-top: 10px; */
+
+        /* правки */
+        margin-top: 3.2vw;
+    }
+    .idc-mary .idc-container {
+        /* padding-top: 22px; */
+
+        /* правки */
+        padding-top: 9vw;
+        height: 58vw;
+    }
+    .idc-mary .idc-mary-img {
+        width: 86.3vw;
+    }
+    /* *************geo************ */
+    .idc-geo {
+        margin-top: 6px;
+    }
+    /* *************products ************ */
+    .idc-products {
+        /* margin-top: 100px; */
+
+        /* правки */
+        margin-top: 32vw;
+    }
+    .idc-products .idc-container {
+        /* padding-top: 80px; */
+        padding-bottom: 0;
+
+        /* правки */
+        padding-top: 25vw;
+    }
+    .idc-products .idc-title {
+        width: 36.3vw;
+    }
+    .idc-products-block {
+        margin-top: 7px;
+        max-width: 85vw;
+    }
+    .idc-products-wrapper {
+        height: 50vw;
+    }
+    /* *************mission************ */
+    .idc-mission {
+        margin-top: 0;
+    }
+    .idc-mission .idc-container {
+        /* padding-top: 22px; */
+        padding-bottom: 15px;
+
+        /* правки */
+        padding-top: 8vw;
+    }
+    .idc-mission .idc-mission-img {
+        width: 270px;
+    }
+
+    /* *************values************ */
+    .idc-values .idc-container {
+        /* padding-top: 60px; */
+        /* padding-bottom: 40px; */
+
+        /* правки */
+        padding-top: 19vw;
+        padding-bottom: 37px;
+    }
+    .idc-values .idc-swiper2 {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .idc-values .idc-swiper-pagination {
+        top: 104%;
+    }
+    /* *************strategy************ */
+    .idc-strategy .idc-container {
+        padding-top: 30px;
+        padding-bottom: 12px;
+    }
+    /* *************career************ */
+    .idc-career .idc-container {
+        /* padding-top: 42px; */
+        padding-bottom: 22px;
+
+        /* правки */
+        padding-top: 13.2vw;
+    }
+    .idc-career .idc-title {
+        width: 42.5vw;
+    }
+    .idc-career .idc-swiper-block {
+        margin-top: 5px;
+    }
+    .idc-swiper3 {
+        max-width: 100%;
+    }
+    .idc-career .idc-swiper-pagination {
+        top: 99%;
+    }
+
+    /* *************why************ */
+    .idc-why .idc-container {
+        padding-top: 25px;
+        /* padding-bottom: 25px; */
+
+        /* правки */
+        padding-bottom: 8vw;
+    }
+    .idc-why-img {
+        max-width: 100%;
+    }
+
+    /* *************footer************ */
+    .idc-footer .idc-container {
+        /* padding-top: 20px; */
+        padding-bottom: 15px;
+        /* правки */
+        padding-top: 6.3vw;
+    }
+    .idc-footer .idc-logo {
+        width: 25vw;
+    }
+    .idc-footer .idc-ps {
+        margin-top: 12px;
+        font-size: 8px;
+        line-height: 9px;
+    }
+}
